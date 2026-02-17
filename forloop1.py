@@ -1,0 +1,12 @@
+#print numbers from 1to 10#
+"""for i in range (1,11):
+    print(i)"""
+#print even numbers from 1to15
+"""for i in range (1,21):
+    if i %2==0:
+        print(i)""""
+#print odd numbers from 1 to 15
+for i in range(1,16):
+    if i % 2!=0:
+        print(i)
+
